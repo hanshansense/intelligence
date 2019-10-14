@@ -26,5 +26,9 @@ module IntelligenceApp
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
+
+    config.i18n.available_locales = [:en, :la]
+    config.i18n.default_locale = :en
+
   end
 end

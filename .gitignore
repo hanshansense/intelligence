@@ -22,4 +22,5 @@
 
 # Ignore master key for decrypting credentials and more.
 /IntelligenceApp/config/master.key
+**/.DS_Store
 
