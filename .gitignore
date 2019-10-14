@@ -18,7 +18,7 @@
 /IntelligenceApp/yarn-error.log
 
 /IntelligenceApp/public/assets
-.byebug_history
+**/.byebug_history
 
 # Ignore master key for decrypting credentials and more.
 /IntelligenceApp/config/master.key
